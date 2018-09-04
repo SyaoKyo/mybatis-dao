@@ -13,7 +13,7 @@
 ## 2 mybatis框架原理
 
 <div align=center>
-   ![1536043029542](./pic/1536043029542.png)
+   <img src="./pic/1536043029542.png" alt="1536043029542" />
 </div>
 
 
@@ -33,6 +33,7 @@
 
 <div align=center>
    ![dao结构](./pic/dao结构.png)
+   <img src="./pic/1536043029542.png" alt="1536043029542" />
 </div>
 
 
@@ -43,12 +44,12 @@
 1. 创建web项目，导入所需的jar包：
 
 <div align=center>
-   ![导入jar包](./pic/导入jar包.png)
+   <img src="./pic/导入jar包.png" alt="导入jar包" />
 </div>
 
 2. 创建所需的包结构及所需文件
 <div align=center>
-   ![结构](./pic/结构.PNG)
+   <img src="./pic/结构.PNG" alt="结构" />
 </div>
 
    1. 在src目录下创建SqlMapConfig.xml文件，文件内容如下：
@@ -331,20 +332,20 @@
 3. 在数据库中创建表
 
 <div align=center>
-   ![数据库](./pic/数据库.PNG)
+   <img src="./pic/数据库.PNG" alt="数据库" />
 </div>
 
 4. 在表中添加数据
 
 <div align=center>
-   ![表中数据](./pic/表中数据.PNG)
+   <img src="./pic/表中数据.PNG" alt="表中数据" />
 </div>
 
 
 ## 4 运行结果
 
 <div align=center>
-   ![运行结果](./pic/运行结果.PNG)
+   <img src="./pic/运行结果.png" alt="运行结果" />
 </div>
 ​      
 
