@@ -32,8 +32,7 @@
 ### 3.2 示例程序结构
 
 <div align=center>
-   ![dao结构](./pic/dao结构.png)
-   <img src="./pic/1536043029542.png" alt="1536043029542" />
+   <img src="./pic/dao结构.PNG" alt="dao结构" />
 </div>
 
 
@@ -44,7 +43,7 @@
 1. 创建web项目，导入所需的jar包：
 
 <div align=center>
-   <img src="./pic/导入jar包.png" alt="导入jar包" />
+   <img src="./pic/导入jar包.PNG" alt="导入jar包" />
 </div>
 
 2. 创建所需的包结构及所需文件
@@ -345,7 +344,7 @@
 ## 4 运行结果
 
 <div align=center>
-   <img src="./pic/运行结果.png" alt="运行结果" />
+   <img src="./pic/运行结果.PNG" alt="运行结果" />
 </div>
 ​      
 
